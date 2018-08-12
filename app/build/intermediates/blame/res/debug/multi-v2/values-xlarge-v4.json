@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sinistro/Documents/Dreamscape/crypto-job-board/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "/Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/sinistro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/bd9a937e4b991d0a3ec1a34fbd6eb241/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/2f0b6814eec1c10a067bec6ca61cdb88/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

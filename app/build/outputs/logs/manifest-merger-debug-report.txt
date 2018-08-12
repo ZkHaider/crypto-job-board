@@ -1,158 +1,158 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/bd9a937e4b991d0a3ec1a34fbd6eb241/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/70d6023e03482a59fe746a55a7a7ab3e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ae3f7b59f6585cef74e682f7e2641042/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/74d4a2785f9f1b2764c7518845134e98/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2300ed1dff62898562561e3fecf1bc04/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e43b3e6d5a5086f63dcd4aa9b589cd3c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cf81746a5eae8ffa830c0a526b17bafe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/f89a26ee991a179714da700fd7484b94/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/2235faaaa1364749cf2b5b7fcee53814/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/9a3bf90305c7a74bab14b935d3ee1e89/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/c7013a46f3a9a8c8697a14f7c0c97046/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/64848b148684cc993d8bfb8e6847f8b2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/b885354ff1df4679ea9cad7e958dfef5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/cd9188ca7300d80f779bd4ae20a831ec/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/22924babf90eae3bd9756c734e830ffb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e03b3551c63dce3de106e25a9e9746e7/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/ca19171bfc5a8adf0d09a64cef4eb6e0/AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c345d7760c4fd9ed5384e3f5903652/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a09cc0a5de1b88a15ea8b4758c405781/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4d5b53ddeda85ba440e65e741b01d07b/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b21e3cf11a7c930c4c93690142ed9240/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f92d7a2c1057f063d87e0f2aeec4cd8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/e6a159fb5f0066c739bfd634eefa00c9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/548b92a8506cf8f7d2e65d398b1f7a1a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fea6f05389d15e949dabd83bfcb348b0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4de963b393a4b14946ec36bc747c2745/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/2f0b6814eec1c10a067bec6ca61cdb88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8c96ec3eefe98c345a1d2bc3ad6ccbe4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/6e53d3c707eb6d2a6803197170c7257a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/9c07f650ce3e0524bb04c313b43b6f07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/770aff7ccf5cc52837c30d909a95404f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/985e39248d8fc7e17bfda51afcd6619f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/18adf6e14149eb4a2009ece553c91ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/91843f203a6eefe34fb1b9dfa3572774/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/b48f639d4387c4fdba84c007d6b793c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/deadfe83161ea9f1d771a1e865a7cba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/f9480b921ffe1fe6a0d74623d279527d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/1eeb5e13061f35f626b424f7179041dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ac20652bbf9b76a1b58ebaa6ad610a8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/b8b499f19734ac1ec92e95393576c71f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7999905d2a975234d3fa42e4dbb66db4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eb8d324f8348cd5c725903375b5132f6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/d82b7f6b85f6d815b384a6521b2c60b6/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d297d0773e094ac465c5b6a8a7f4f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ecf8f3e7b21be915620ed3697497446e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4fee8c7f3244939996ae641ce5db2298/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b65ed3dfe8825fad68477ac181ce7de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204a5437a9fb6967bbc496a2fa01f7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/376a89e7ca348feb17408fd3b6ce3d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/497bd3eb4f8a4e203db8ef7a02b25f75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/1784bbbcefa49d6aa2b187ed31e6c1f3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/632fac3fa3668531082546b029a4405e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:3:5-48
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:5:5-20:19
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e03b3551c63dce3de106e25a9e9746e7/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e03b3551c63dce3de106e25a9e9746e7/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/ca19171bfc5a8adf0d09a64cef4eb6e0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/ca19171bfc5a8adf0d09a64cef4eb6e0/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eb8d324f8348cd5c725903375b5132f6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eb8d324f8348cd5c725903375b5132f6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/d82b7f6b85f6d815b384a6521b2c60b6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/d82b7f6b85f6d815b384a6521b2c60b6/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.cryptojobboard.cryptojobboard.MainActivity
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.cryptojobboard.cryptojobboard.feed.FeedActivity
-ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:19:9-64
+ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:19:9-64
 	android:name
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml:19:19-52
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml:19:19-52
 uses-sdk
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/bd9a937e4b991d0a3ec1a34fbd6eb241/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/bd9a937e4b991d0a3ec1a34fbd6eb241/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/70d6023e03482a59fe746a55a7a7ab3e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/70d6023e03482a59fe746a55a7a7ab3e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ae3f7b59f6585cef74e682f7e2641042/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ae3f7b59f6585cef74e682f7e2641042/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/74d4a2785f9f1b2764c7518845134e98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/74d4a2785f9f1b2764c7518845134e98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2300ed1dff62898562561e3fecf1bc04/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/2300ed1dff62898562561e3fecf1bc04/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e43b3e6d5a5086f63dcd4aa9b589cd3c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e43b3e6d5a5086f63dcd4aa9b589cd3c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cf81746a5eae8ffa830c0a526b17bafe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cf81746a5eae8ffa830c0a526b17bafe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/f89a26ee991a179714da700fd7484b94/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/f89a26ee991a179714da700fd7484b94/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/2235faaaa1364749cf2b5b7fcee53814/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/2235faaaa1364749cf2b5b7fcee53814/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/9a3bf90305c7a74bab14b935d3ee1e89/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/9a3bf90305c7a74bab14b935d3ee1e89/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/c7013a46f3a9a8c8697a14f7c0c97046/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/c7013a46f3a9a8c8697a14f7c0c97046/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/64848b148684cc993d8bfb8e6847f8b2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/64848b148684cc993d8bfb8e6847f8b2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/b885354ff1df4679ea9cad7e958dfef5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/b885354ff1df4679ea9cad7e958dfef5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/cd9188ca7300d80f779bd4ae20a831ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/cd9188ca7300d80f779bd4ae20a831ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/22924babf90eae3bd9756c734e830ffb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/22924babf90eae3bd9756c734e830ffb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/9a1ac667a48b1a2c0ea5c00eea1a6d47/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e03b3551c63dce3de106e25a9e9746e7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e03b3551c63dce3de106e25a9e9746e7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/ca19171bfc5a8adf0d09a64cef4eb6e0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/ca19171bfc5a8adf0d09a64cef4eb6e0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c345d7760c4fd9ed5384e3f5903652/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c345d7760c4fd9ed5384e3f5903652/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a09cc0a5de1b88a15ea8b4758c405781/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a09cc0a5de1b88a15ea8b4758c405781/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4d5b53ddeda85ba440e65e741b01d07b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4d5b53ddeda85ba440e65e741b01d07b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b21e3cf11a7c930c4c93690142ed9240/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b21e3cf11a7c930c4c93690142ed9240/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f92d7a2c1057f063d87e0f2aeec4cd8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f92d7a2c1057f063d87e0f2aeec4cd8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/e6a159fb5f0066c739bfd634eefa00c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/e6a159fb5f0066c739bfd634eefa00c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/548b92a8506cf8f7d2e65d398b1f7a1a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/548b92a8506cf8f7d2e65d398b1f7a1a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fea6f05389d15e949dabd83bfcb348b0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fea6f05389d15e949dabd83bfcb348b0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4de963b393a4b14946ec36bc747c2745/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sinistro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4de963b393a4b14946ec36bc747c2745/AndroidManifest.xml:20:5-44
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/2f0b6814eec1c10a067bec6ca61cdb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/2f0b6814eec1c10a067bec6ca61cdb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8c96ec3eefe98c345a1d2bc3ad6ccbe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8c96ec3eefe98c345a1d2bc3ad6ccbe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/6e53d3c707eb6d2a6803197170c7257a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/6e53d3c707eb6d2a6803197170c7257a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/9c07f650ce3e0524bb04c313b43b6f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/9c07f650ce3e0524bb04c313b43b6f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/770aff7ccf5cc52837c30d909a95404f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/770aff7ccf5cc52837c30d909a95404f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/985e39248d8fc7e17bfda51afcd6619f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/985e39248d8fc7e17bfda51afcd6619f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/18adf6e14149eb4a2009ece553c91ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/18adf6e14149eb4a2009ece553c91ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/91843f203a6eefe34fb1b9dfa3572774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/91843f203a6eefe34fb1b9dfa3572774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/b48f639d4387c4fdba84c007d6b793c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/b48f639d4387c4fdba84c007d6b793c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/deadfe83161ea9f1d771a1e865a7cba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/deadfe83161ea9f1d771a1e865a7cba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/f9480b921ffe1fe6a0d74623d279527d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/f9480b921ffe1fe6a0d74623d279527d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/1eeb5e13061f35f626b424f7179041dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/1eeb5e13061f35f626b424f7179041dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ac20652bbf9b76a1b58ebaa6ad610a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ac20652bbf9b76a1b58ebaa6ad610a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/b8b499f19734ac1ec92e95393576c71f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/b8b499f19734ac1ec92e95393576c71f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7999905d2a975234d3fa42e4dbb66db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7999905d2a975234d3fa42e4dbb66db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/a2f5b2758efef30c493a985c7e830e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eb8d324f8348cd5c725903375b5132f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eb8d324f8348cd5c725903375b5132f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/d82b7f6b85f6d815b384a6521b2c60b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/d82b7f6b85f6d815b384a6521b2c60b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d297d0773e094ac465c5b6a8a7f4f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d297d0773e094ac465c5b6a8a7f4f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ecf8f3e7b21be915620ed3697497446e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ecf8f3e7b21be915620ed3697497446e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4fee8c7f3244939996ae641ce5db2298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/4fee8c7f3244939996ae641ce5db2298/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b65ed3dfe8825fad68477ac181ce7de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b65ed3dfe8825fad68477ac181ce7de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204a5437a9fb6967bbc496a2fa01f7d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204a5437a9fb6967bbc496a2fa01f7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/376a89e7ca348feb17408fd3b6ce3d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/376a89e7ca348feb17408fd3b6ce3d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/497bd3eb4f8a4e203db8ef7a02b25f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/497bd3eb4f8a4e203db8ef7a02b25f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/1784bbbcefa49d6aa2b187ed31e6c1f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/1784bbbcefa49d6aa2b187ed31e6c1f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/632fac3fa3668531082546b029a4405e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yuhuawu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/632fac3fa3668531082546b029a4405e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sinistro/Documents/Dreamscape/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhuawu/AndroidStudioProjects/crypto-job-board/app/src/main/AndroidManifest.xml
