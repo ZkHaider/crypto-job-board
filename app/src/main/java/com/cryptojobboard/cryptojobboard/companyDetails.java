@@ -57,7 +57,7 @@ public class companyDetails extends AppCompatActivity {
             //*************THIS FUNCTION DELETES THE TABLE EVERY TIME. SHOULD ONLY BE USED WHILE TESTING TO NOT OVERFILL WITH GARBAGE****************
             //Only use when clearing the data. Won't log or save anything if the line is not commented out
             //**************************************************************************************************************************************
-            //companyInfoDataBase.execSQL("DROP TABLE IF EXISTS companyInfoTable");
+            companyInfoDataBase.execSQL("DROP TABLE IF EXISTS companyInfoTable");
             //**************************************************************************************************************************************
             //**************************************************************************************************************************************
 
