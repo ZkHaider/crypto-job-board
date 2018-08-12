@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".feed.LandingPageActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +22,11 @@
         <activity android:name=".feed.CardLogosActivity" />
         <activity android:name=".Employee.EmployeePortfolioActivity" />
         <activity android:name=".PurchaseEthereumActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".UserTypeSelection" />
+        <activity android:name=".PostJobActivity" />
+        <activity android:name=".CompanyDetails" />
+        <activity android:name=".CandidateSpecificationPage"></activity>
     </application>
 
 </manifest>
