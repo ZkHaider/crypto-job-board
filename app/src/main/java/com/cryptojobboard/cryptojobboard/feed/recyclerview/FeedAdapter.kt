@@ -35,6 +35,8 @@ final class FeedAdapter(private val data: Data, private val context: Context, pr
         when (feedType) {
             is FeedType.Job -> {
 
+                // Check if its the lat position if so just return our padding view
+
                 // Cast and bind
                 val jobViewHolder = holder as JobViewHolder
 
