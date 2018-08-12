@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Employee.EmployeePortfolioActivity"
+            android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,7 +20,8 @@
         </activity>
         <activity android:name=".feed.FeedActivity" />
         <activity android:name=".feed.CardLogosActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".Employee.EmployeePortfolioActivity" />
+        <activity android:name=".PurchaseEthereumActivity"></activity>
     </application>
 
 </manifest>
