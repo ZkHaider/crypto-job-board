@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-public class userTypeSelection extends AppCompatActivity {
+public class UserTypeSelection extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +24,7 @@ public class userTypeSelection extends AppCompatActivity {
             case R.id.employerButton:
                 //Jump to the company details page
 
-                startPageIntent =  new Intent(this.getApplicationContext(), companyDetails.class);
+                startPageIntent =  new Intent(this.getApplicationContext(), CompanyDetails.class);
                 startActivity( startPageIntent );
 
                 break;

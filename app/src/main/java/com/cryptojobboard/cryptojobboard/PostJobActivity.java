@@ -3,7 +3,7 @@ package com.cryptojobboard.cryptojobboard;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class postJobActivity extends AppCompatActivity {
+public class PostJobActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

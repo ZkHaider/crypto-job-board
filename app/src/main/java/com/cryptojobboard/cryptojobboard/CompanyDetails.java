@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class companyDetails extends AppCompatActivity {
+public class CompanyDetails extends AppCompatActivity {
 
     SQLiteDatabase companyInfoDataBase;
 
@@ -72,7 +72,7 @@ public class companyDetails extends AppCompatActivity {
         }//End of try/catch block
 
 
-        Intent nextPage = new Intent(getApplicationContext(), candidateSpecificationPage.class);
+        Intent nextPage = new Intent(getApplicationContext(), CandidateSpecificationPage.class);
         startActivity( nextPage );
     }
 
