@@ -3,4 +3,9 @@
     <string name="action_bar_text">To pay candidates link your bank account</string>
     <string name="action_bar_button_text">SETUP ACCOUNT</string>
     <string name="account_setup">Select your bank</string>
+    <string name="employee_name">John591</string>
+    <string name="employee_title">iOS Developer</string>
+    <string name="rating">Rating</string>
+    <string name="about_me">About Me</string>
+    <string name="projects">Projects</string>
 </resources>
