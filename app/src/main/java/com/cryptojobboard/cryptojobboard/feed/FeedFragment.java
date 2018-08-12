@@ -6,9 +6,13 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.design.widget.BottomSheetBehavior;
+import android.support.v4.widget.NestedScrollView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.Toast;
 
 import com.cryptojobboard.cryptojobboard.R;
 import com.cryptojobboard.cryptojobboard.feed.recyclerview.FeedAdapter;
@@ -22,7 +26,11 @@ public class FeedFragment extends Fragment {
     Data mData;
     FeedAdapter mFeedAdapter;
 
+    View view;
+    Button mButtonActionBar;
     RecyclerView rvFeed;
+
+    private BottomSheetBehavior mBottomSheetBehavior;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
@@ -44,6 +52,12 @@ public class FeedFragment extends Fragment {
 
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_feed, container, false);
+        initializeView(view);
+        return view;
+    }
+
+    private void initializeView(final View view) {
+
         this.rvFeed = view.findViewById(R.id.rvFeed);
 
         mFeedAdapter = new FeedAdapter(mData, getActivity(), new FeedType.Job());
@@ -52,7 +66,19 @@ public class FeedFragment extends Fragment {
         rvFeed.setAdapter(mFeedAdapter);
         rvFeed.setLayoutManager(new LinearLayoutManager(getActivity()));
 
-        return view;
+        NestedScrollView nestedScrollView = view.findViewById(R.id.bottom_sheet);
+
+        mButtonActionBar = view.findViewById(R.id.bSetupAccount);
+        mButtonActionBar.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                Toast.makeText(view.getContext(), "This is a test",
+                        Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        mBottomSheetBehavior = BottomSheetBehavior.from(nestedScrollView);
+        mBottomSheetBehavior.setPeekHeight(100);
+        mBottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
     }
 
 }
