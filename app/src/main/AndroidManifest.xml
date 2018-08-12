@@ -22,6 +22,10 @@
         <activity android:name=".feed.CardLogosActivity" />
         <activity android:name=".Employee.EmployeePortfolioActivity" />
         <activity android:name=".PurchaseEthereumActivity"></activity>
+        <activity android:name=".userTypeSelection" />
+        <activity android:name=".postJobActivity" />
+        <activity android:name=".companyDetails" />
+        <activity android:name=".candidateSpecificationPage"></activity>
     </application>
 
 </manifest>
