@@ -10,8 +10,6 @@ import com.cryptojobboard.cryptojobboard.feed.FeedType
 
 final class FeedAdapter(private val data: Data, private val context: Context, private val feedType: FeedType): RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
-    private val viewTypeFeed: Int = 0
-
     override fun getItemCount(): Int {
         return when (feedType) {
             is FeedType.Job -> data.jobs.size
@@ -20,21 +18,44 @@ final class FeedAdapter(private val data: Data, private val context: Context, pr
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
-        return when (viewType) {
-            viewTypeFeed -> {
+        return when (feedType) {
+            is FeedType.Job -> {
                 val view = LayoutInflater.from(context).inflate(R.layout.row_feed, parent, false)
-                FeedViewHolder(view)
+                JobViewHolder(view)
             }
-            else -> {
+            is FeedType.Candidate -> {
                 val view = LayoutInflater.from(context).inflate(R.layout.row_feed, parent, false)
-                FeedViewHolder(view)
+                CandidateViewHolder(view)
             }
         }
 
     }
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
-        val feedViewHolder: FeedViewHolder = holder as FeedViewHolder
+        when (feedType) {
+            is FeedType.Job -> {
 
+                // Cast and bind
+                val jobViewHolder = holder as JobViewHolder
+
+                // Get data model
+                val jobModel = data.jobs[position]
+
+                // Bind
+                jobViewHolder.bind(jobModel)
+
+            }
+            is FeedType.Candidate -> {
+
+                // Cast and bind
+                val candidateViewHolder = holder as CandidateViewHolder
+
+                // Get data model
+                val candidateModel = data.candidates[position];
+
+                // Bind
+                candidateViewHolder.bind(candidateModel)
+            }
+        }
     }
 }
