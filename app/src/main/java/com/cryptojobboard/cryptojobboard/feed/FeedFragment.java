@@ -1,5 +1,6 @@
 package com.cryptojobboard.cryptojobboard.feed;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -12,6 +13,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.cryptojobboard.cryptojobboard.R;
@@ -68,17 +70,24 @@ public class FeedFragment extends Fragment {
 
         NestedScrollView nestedScrollView = view.findViewById(R.id.bottom_sheet);
 
+        // Initialize Action Bar
         mButtonActionBar = view.findViewById(R.id.bSetupAccount);
         mButtonActionBar.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
-                Toast.makeText(view.getContext(), "This is a test",
-                        Toast.LENGTH_SHORT).show();
+                intentWalletActivity(v);
             }
         });
 
         mBottomSheetBehavior = BottomSheetBehavior.from(nestedScrollView);
         mBottomSheetBehavior.setPeekHeight(100);
         mBottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
+    }
+
+    /** Called when the user taps the Send button */
+    public void intentWalletActivity(View view) {
+        Intent intent = new Intent(view.getContext(), CardLogosActivity.class);
+        startActivity(intent);
+
     }
 
 }
