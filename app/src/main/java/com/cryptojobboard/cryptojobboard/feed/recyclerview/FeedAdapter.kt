@@ -20,11 +20,11 @@ final class FeedAdapter(private val data: Data, private val context: Context, pr
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
         return when (feedType) {
             is FeedType.Job -> {
-                val view = LayoutInflater.from(context).inflate(R.layout.row_feed, parent, false)
+                val view = LayoutInflater.from(context).inflate(R.layout.row_job, parent, false)
                 JobViewHolder(view)
             }
             is FeedType.Candidate -> {
-                val view = LayoutInflater.from(context).inflate(R.layout.row_feed, parent, false)
+                val view = LayoutInflater.from(context).inflate(R.layout.row_candidate, parent, false)
                 CandidateViewHolder(view)
             }
         }

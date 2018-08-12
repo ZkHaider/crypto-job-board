@@ -136,10 +136,6 @@
         "source": "/Users/ZkHaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/62b620380e79156cb71f7c3e05e93ab7/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/layout_row_feed.xml.flat",
-        "source": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/src/main/res/layout/row_feed.xml"
-    },
-    {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/interpolator_mtrl_fast_out_slow_in.xml.flat",
         "source": "/Users/ZkHaider/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/fc616430247d1941867b7646098791e6/res/interpolator/mtrl_fast_out_slow_in.xml"
     },
@@ -638,6 +634,10 @@
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/ZkHaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/62b620380e79156cb71f7c3e05e93ab7/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable_group.png.flat",
+        "source": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/src/main/res/drawable/group.png"
     },
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -1206,6 +1206,10 @@
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
         "source": "/Users/ZkHaider/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/fc616430247d1941867b7646098791e6/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/layout_row_candidate.xml.flat",
+        "source": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/src/main/res/layout/row_candidate.xml"
     },
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1906,6 +1910,10 @@
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/ZkHaider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/62b620380e79156cb71f7c3e05e93ab7/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/layout_row_job.xml.flat",
+        "source": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/src/main/res/layout/row_job.xml"
     },
     {
         "merged": "/Users/ZkHaider/Documents/AndroidStudioProjects/CryptoJobBoard/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
