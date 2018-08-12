@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".feed.FeedActivity"></activity>
+        <activity android:name=".feed.CardLogosActivity"></activity>
     </application>
 
 </manifest>

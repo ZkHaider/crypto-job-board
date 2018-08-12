@@ -2,4 +2,5 @@
     <string name="app_name">CryptoJobBoard</string>
     <string name="action_bar_text">To pay candidates link your bank account</string>
     <string name="action_bar_button_text">SETUP ACCOUNT</string>
+    <string name="account_setup">Select your bank</string>
 </resources>
