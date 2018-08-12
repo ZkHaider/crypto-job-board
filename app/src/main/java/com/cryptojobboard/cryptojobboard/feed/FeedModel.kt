@@ -10,6 +10,7 @@ data class JobModel(@SerializedName("id") val id: String,
                     @SerializedName("image") val image: String,
                     @SerializedName("title") val title: String,
                     @SerializedName("description") val description: String,
+                    @SerializedName("compensation") val compensation: Double,
                     @SerializedName("skills") val skills: Array<String>)
 
 data class CandidateModel(@SerializedName("id") val id: String,

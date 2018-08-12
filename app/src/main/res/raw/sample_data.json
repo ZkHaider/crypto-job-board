@@ -3,10 +3,10 @@
         {
             "id": "1",
             "type": "2",
-            "image": "",
-            "title": "UX / UI Designer",
-            "description": "",
-            "compensation": 10000.0,
+            "image": "https://cdn.vox-cdn.com/thumbor/NeSo4JAqv-fFJCIhb5K5eBqvXG4=/7x0:633x417/1200x800/filters:focal(7x0:633x417)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg",
+            "title": "Software Engineer",
+            "description": "As an engineer on the Visual Studio Team Services team in Raleigh, NC you'll be part of an 8-12 person agile team working together to ship weekly updates to Visual Studio Team Services and the products around it",
+            "compensation": 124690.0,
             "skills": [
                 "Java",
                 "Android",
@@ -17,10 +17,10 @@
         {
             "id": "2",
             "type": "2",
-            "image": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/NHN_Entertainment_logo.jpeg",
             "title": "UX / UI Designer",
-            "description": "",
-            "compensation": 10000.0,
+            "description": "We are looking for a user-experience (UX) designer able to understand our business requirements and any technical limitations, as well as be responsible for conceiving and conducting user research, interviews and surveys, and translating them into sitemaps, user flows, customer journey maps, wireframes, mockups and prototypes. The UX designer will also be expected to design the overall functionality of the product, and in order to ensure a great user experience, iterate upon it in accordance with user-testing",
+            "compensation": 150000.0,
             "skills": [
                 "Java",
                 "Android",
@@ -31,10 +31,10 @@
         {
             "id": "3",
             "type": "2",
-            "image": "",
-            "title": "UX / UI Designer",
-            "description": "",
-            "compensation": 10000.0,
+            "image": "https://cdn.explara.com/tie-oregon-h-oregon--450-pixels20170907214030.png",
+            "title": "Database Manager",
+            "description": "The Program and Development Manager is a key member of TiE Oregon’s team. Reporting to the Executive Director, this position is responsible for the overall day-to-day activities and marketing efforts surrounding the TYE. We are looking for a leader who is passionate about inspiring high school students from diverse backgrounds and socio-economic statuses, is detailed oriented, and a self-starter.",
+            "compensation": 107988.0,
             "skills": [
                 "Java",
                 "Android",
@@ -45,10 +45,10 @@
         {
             "id": "4",
             "type": "2",
-            "image": "",
-            "title": "UX / UI Designer",
-            "description": "",
-            "compensation": 10000.0,
+            "image": "https://qph.fs.quoracdn.net/main-qimg-18d801a88c5d4fefd289642da0d074d9",
+            "title": "Mobile Application Developer",
+            "description": "The Nike+ Apps team is seeking a Senior iOS Engineer to join us in developing premium native experiences for our consumers. In this role, you will deliver well designed, highly testable, and resilient applications and/or POCs. You will also be instrumental in exploring new platforms, technologies, and partnerships with industry leaders. The successful candidate is both deeply experienced with iOS development and loves bleeding edge technology outside of the iOS ecosystem.",
+            "compensation": 145050.0,
             "skills": [
                 "Java",
                 "Android",
@@ -59,10 +59,11 @@
         {
             "id": "5",
             "type": "2",
-            "image": "",
-            "title": "UX / UI Designer",
-            "description": "",
-            "compensation": 10000.0,
+            "image": "https://www.communitywarehouse.org/wp-content/uploads/2017/01/Kaiser-Permanente-Logo.png",
+            "title": "Research and Development",
+            "description": "With minimal oversight provide high-level professional, substantive, technical, and administrative support to senior investigators and investigators in the design, implementation, day-to-day operations, and dissemination of findings from research, demonstration, and evaluation projects
+            ",
+            "compensation": 143650.0,
             "skills": [
                 "Java",
                 "Android",
@@ -75,8 +76,8 @@
         {
             "id": "1",
             "type": "2",
-            "image": "",
-            "name": "John Doe",
+            "image": "http://latinogiant.com/wp-content/uploads/2014/02/C.-Pineda-Headshot.jpg",
+            "name": "Rutilo Rodriguez",
             "skills": [
                 "Java",
                 "Android",
@@ -87,8 +88,8 @@
         {
             "id": "2",
             "type": "2",
-            "image": "",
-            "name": "John Doe",
+            "image": "http://johngress.com/wp-content/uploads//2014/12/1200108_11_IMF_EN_268.jpg",
+            "name": "Margarita Lopez",
             "skills": [
                 "Java",
                 "Android",
@@ -99,8 +100,8 @@
         {
             "id": "3",
             "type": "2",
-            "image": "",
-            "name": "John Doe",
+            "image": "http://nebula.wsimg.com/c4019cc451f266bff80a5f67b0b06959?AccessKeyId=F619BB301D5C5CC279F6&disposition=0&alloworigin=1",
+            "name": "Mia Gonzales",
             "skills": [
                 "Java",
                 "Android",
@@ -111,8 +112,8 @@
         {
             "id": "4",
             "type": "2",
-            "image": "",
-            "name": "John Doe",
+            "image": "https://static1.squarespace.com/static/564e7bc9e4b06970c6919cb1/t/564ea1a7e4b0274f1a5f56ac/1447993768770/PacoNavarro_Headshot_portrait?format=500w",
+            "name": "Enrique Meza",
             "skills": [
                 "Java",
                 "Android",
@@ -123,8 +124,8 @@
         {
             "id": "5",
             "type": "2",
-            "image": "",
-            "name": "John Doe",
+            "image": "http://www.sagaftra.org/ocs/content/4f211776f0db7b6ccd966e2f5a22b0d4/584b3031/headshots_xlarge/16/77/298896.jpeg",
+            "name": "Maria Flores",
             "skills": [
                 "Java",
                 "Android",
