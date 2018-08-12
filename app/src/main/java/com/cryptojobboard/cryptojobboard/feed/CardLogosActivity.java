@@ -1,6 +1,7 @@
 package com.cryptojobboard.cryptojobboard.feed;
 
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +10,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 
+import com.cryptojobboard.cryptojobboard.PurchaseEthereumActivity;
 import com.cryptojobboard.cryptojobboard.R;
 
 public class CardLogosActivity extends AppCompatActivity implements CCRecyclerViewAdapter.ItemClickListener {
@@ -51,7 +53,8 @@ public class CardLogosActivity extends AppCompatActivity implements CCRecyclerVi
 
     @Override
     public void onItemClick(View view, int position) {
-        Log.i("TAG", "You clicked number " + mRecyclerViewAdapter.getItem(position) + ", which is at cell position " + position);
+        Intent intent = new Intent(this, PurchaseEthereumActivity.class);
+        startActivity(intent);
     }
 
 }
