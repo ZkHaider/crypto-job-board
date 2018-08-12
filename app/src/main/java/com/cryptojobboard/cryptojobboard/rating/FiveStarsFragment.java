@@ -35,7 +35,10 @@ public class FiveStarsFragment extends Fragment {
         star4 = (ImageView) root.findViewById(R.id.star4);
         star5 = (ImageView) root.findViewById(R.id.star5);
 
-        double score = 3.5;
+        double score = 4.5;
+
+
+
 
         changeStarIcons(score);
 
