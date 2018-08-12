@@ -1,0 +1,136 @@
+{
+    "jobs": [
+        {
+            "id": "1",
+            "type": "2",
+            "image": "",
+            "title": "UX / UI Designer",
+            "description": "",
+            "compensation": 10000.0,
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "image": "",
+            "title": "UX / UI Designer",
+            "description": "",
+            "compensation": 10000.0,
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "3",
+            "type": "2",
+            "image": "",
+            "title": "UX / UI Designer",
+            "description": "",
+            "compensation": 10000.0,
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "4",
+            "type": "2",
+            "image": "",
+            "title": "UX / UI Designer",
+            "description": "",
+            "compensation": 10000.0,
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "5",
+            "type": "2",
+            "image": "",
+            "title": "UX / UI Designer",
+            "description": "",
+            "compensation": 10000.0,
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        }
+    ],
+    "candidates": [
+        {
+            "id": "1",
+            "type": "2",
+            "image": "",
+            "name": "John Doe",
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "2",
+            "type": "2",
+            "image": "",
+            "name": "John Doe",
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "3",
+            "type": "2",
+            "image": "",
+            "name": "John Doe",
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "4",
+            "type": "2",
+            "image": "",
+            "name": "John Doe",
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        },
+        {
+            "id": "5",
+            "type": "2",
+            "image": "",
+            "name": "John Doe",
+            "skills": [
+                "Java",
+                "Android",
+                "Swift",
+                "Objective-C"
+            ]
+        }
+    ]
+}

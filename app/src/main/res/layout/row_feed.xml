@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="172dp"
+             xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cvFeed"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        app:cardCornerRadius="6dp"
+        app:cardElevation="6dp">
+
+        <ImageView
+            android:id="@+id/ivFeedImage"
+            android:layout_margin="32dp"
+            android:src="@drawable/ic_launcher_background"
+            android:layout_width="72dp"
+            android:layout_height="72dp"/>
+
+        <LinearLayout
+            android:id="@+id/llTexts"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginStart="120dp"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:text="UX / UI Designer"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:text="San Francisco, CA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:text="$10,000"
+                android:layout_marginTop="8dp"
+                android:paddingLeft="-10dp"
+                android:drawableLeft="@drawable/coins_stack"
+                android:drawablePadding="-6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>
